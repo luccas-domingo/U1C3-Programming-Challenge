@@ -61,7 +61,7 @@ public class Solution {
 
     public int quotient(int num1, int num2) {
         //implement code here
-        return (int)(num1 / num2);
+        return (num1 / num2);
     }
 
     public int remainder(int num1, int num2) {
